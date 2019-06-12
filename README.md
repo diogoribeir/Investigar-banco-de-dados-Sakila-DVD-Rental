@@ -7,7 +7,8 @@ May 2019
 
 
 ### Description
-Usar o SQL para explorar um banco de dados relacionado ao aluguel de filmes
+Use SQL to explore a database related to movie rentals
+
 
 ### Files
 Queries file is the collection of queries created to generate answers to questions
