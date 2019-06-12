@@ -11,7 +11,7 @@ Use SQL to explore a database related to movie rentals
 
 
 ### Files
-Queries file is the collection of queries created to generate answers to questions
+Queries file is the collection of queries created to generate answers to questions.
 Report is the result of analysis in graph
 
 ### Credits
